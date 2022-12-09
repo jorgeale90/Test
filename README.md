@@ -1,3 +1,6 @@
+Acceder al proyecto e instalar los modulos correspondientes:
+npm i
+================================================================================================
 npx playwright test // Running all tests
 
 npx playwright test landing-page.spec.ts // Running a single test file
